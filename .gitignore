@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+.idea/vcs.xml
+Lib/
+pyvenv.cfg
+Scripts/
+.idea/
+__pycache__/
+share/
+Downloadlog.log
